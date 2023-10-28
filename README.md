@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ✨ About Me:
 I'm Luis Daniel and student of Data Science 🔬 in IPN/ESCOM, but you shall call me Dogo.<br>🔭 I’m looking forward to doing data analysis that makes an impact & currently learning statistics & NOSQL..<br>I ❤️ rolplaying games 🎲, anime.<br>
 
 
@@ -15,19 +15,4 @@ I'm Luis Daniel and student of Data Science 🔬 in IPN/ESCOM, but you shall cal
 ---
 [![](https://visitcount.itsvg.in/api?id=LuisDogo&icon=9&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->### Hi there 👋
-
-<!--
-**LuisDogo/LuisDogo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
