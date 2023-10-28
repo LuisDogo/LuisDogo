@@ -1,5 +1,5 @@
 # ✨ About Me:
-I'm Luis Daniel a 🇲🇽 student of Data Science 🔬 in IPN/ESCOM, but you shall call me Dogo.<br> I’m looking forward 🔭 to doing data analysis that makes an impact & currently learning statistics & NOSQL..<br>I ❤️ rolplaying games 🎲, anime.<br>
+I'm Luis Daniel a 🇲🇽 student of Data Science 🔬 in IPN/ESCOM, but you shall call me Dogo.<br> I’m looking forward 🔭 to doing data analysis that makes an impact & currently learning statistics & NOSQL..<br>I ❤️ rolplaying games 🎲 & anime.<br>
 
 
 ## 🌐 Socials:
