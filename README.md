@@ -1,7 +1,11 @@
 ![chu](https://github.com/user-attachments/assets/fbf30535-c5db-4bb0-b4d7-d7131de18726)
 
 # ✨ About Me:
-I'm Luis Daniel a 🇲🇽 student of Data Science 🔬 in IPN/ESCOM, but you shall call me Dogo.<br> I’m looking forward to doing data analysis that makes a positive impact, I'm currently learning statistics & NOSQL..<br>I ❤️ rolplaying games 🎲 & anime.<br> Contact me at: luisdogoms@gmail.com
+I'm Luis Daniel a 🇲🇽 student of Data Science 🔬 in IPN/ESCOM, but you shall call me Dogo.<br> I’m looking forward to doing data analysis that makes a positive impact, I'm currently learning:<br>
+- Statistics
+- Natural Language Processing
+- Deep Learning
+<br>I ❤️ rolplaying games 🎲 & anime.<br> Contact me at: luisdogoms@gmail.com
 
 
 ## 🌐 Socials:
