@@ -5,7 +5,8 @@ I'm Luis Daniel a 🇲🇽 student of Data Science 🔬 in IPN/ESCOM, but you sh
 - Statistics
 - Natural Language Processing
 - Deep Learning
-<br>I ❤️ rolplaying games 🎲 & anime.<br> Contact me at: luisdogoms@gmail.com
+<br>
+I ❤️ rolplaying games 🎲 & anime.<br> Contact me at: luisdogoms@gmail.com
 
 
 ## 🌐 Socials:
