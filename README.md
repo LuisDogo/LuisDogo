@@ -1,6 +1,6 @@
 ![chu](https://github.com/user-attachments/assets/fbf30535-c5db-4bb0-b4d7-d7131de18726)
 
-# ✨ About Me:
+# 𓆏 About Me 𓆏:
 I'm Luis Daniel a 🇲🇽 student of Data Science 🔬 in IPN/ESCOM, but you shall call me Dogo.<br> I’m looking forward to doing data analysis that makes a positive impact, I'm currently interested in:<br>
 - Statistics
 - Natural Language Processing
