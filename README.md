@@ -11,7 +11,7 @@ I ❤ rolplaying games & boardgames alike. ( ദ്ദി ˙ᗜ˙ )<br> Contact 
 
 # My Toolkit:
 
-## Data Science Frameworks:
+## ⚛︎ Data Science Frameworks:
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-informational?style=for-the-badge&logo=seaborn&logoColor=white&color=444876)
@@ -27,13 +27,13 @@ I ❤ rolplaying games & boardgames alike. ( ദ്ദി ˙ᗜ˙ )<br> Contact 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-## Database Management Systems:
+## 🖳🖥 Database Management Systems:
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## Other:
+## ☰ Other:
 ![Anaconda](https://img.shields.io/badge/-Anaconda-informational?style=for-the-badge&logo=Anaconda&logoColor=white&color=44A833)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
