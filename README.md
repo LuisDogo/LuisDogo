@@ -7,7 +7,7 @@ I'm Luis Daniel a 🇲🇽 student of Data Science 🔬 in IPN/ESCOM, but you sh
 - Deep Learning
 - Time Series
 <br>
-I ❤ rolplaying games & boardgames alike. ( ദ്ദി ˙ᗜ˙ )<br> Contact me at: ![luisdogoms@gmail.com](luisdogoms@gmail.com)
+I ❤ rolplaying games & boardgames alike. ( ദ്ദി ˙ᗜ˙ )<br> Contact me at: ![Gmail](luisdogoms@gmail.com)
 
 # My Toolkit:
 
